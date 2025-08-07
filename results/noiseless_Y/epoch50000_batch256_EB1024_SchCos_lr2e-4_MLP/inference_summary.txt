@@ -1,0 +1,30 @@
+
+
+============================================================
+Model Folder: epoch50000_batch256_EB1024_SchCos_lr2e-4_MLP
+num_steps used in sampler: 200
+Average MSE over test set: 6.071901e-04
+Average Variance over test set: 1.664547e-02
+Average Relative L2 Error: 2.304415e-02
+Total Inference Time (s): 27.96
+============================================================
+
+
+============================================================
+Model Folder: epoch50000_batch256_EB1024_SchCos_lr2e-4_MLP
+num_steps used in sampler: 500
+Average MSE over test set: 2.857026e-05
+Average Variance over test set: 4.733368e-04
+Average Relative L2 Error: 4.977415e-03
+Total Inference Time (s): 64.75
+============================================================
+
+
+============================================================
+Model Folder: epoch50000_batch256_EB1024_SchCos_lr2e-4_MLP
+num_steps used in sampler: 1000
+Average MSE over test set: 1.199970e-05
+Average Variance over test set: 2.923467e-05
+Average Relative L2 Error: 2.969023e-03
+Total Inference Time (s): 125.11
+============================================================
