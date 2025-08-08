@@ -1,0 +1,30 @@
+
+
+============================================================
+Model Folder: noisyY10%_epoch50000_batch256_EB1024_SchCos_lr2e-4_MLP
+num_steps used in sampler: 1000
+Average MSE over test set: 5.303324e-04
+Average Variance over test set: 1.549686e-04
+Average Relative L2 Error: 1.862388e-02
+Total Inference Time (s): 145.04
+============================================================
+
+
+============================================================
+Model Folder: noisyY10%_epoch50000_batch256_EB1024_SchCos_lr2e-4_MLP
+num_steps used in sampler: 200
+Average MSE over test set: 1.043136e-03
+Average Variance over test set: 1.536789e-02
+Average Relative L2 Error: 2.872324e-02
+Total Inference Time (s): 29.11
+============================================================
+
+
+============================================================
+Model Folder: noisyY10%_epoch50000_batch256_EB1024_SchCos_lr2e-4_MLP
+num_steps used in sampler: 2000
+Average MSE over test set: 5.405955e-04
+Average Variance over test set: 3.524231e-04
+Average Relative L2 Error: 1.906219e-02
+Total Inference Time (s): 295.71
+============================================================
